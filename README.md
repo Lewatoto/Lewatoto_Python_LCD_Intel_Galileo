@@ -5,14 +5,14 @@ Intel, en la placa de desarrollo Intel Galileo Gen 1 y 2.
 ## **work in progress**
 
 ## Conexiones por defecto
-LCD| Intel Galileo pin  |  
---|--
-RS|2  
-E |3  
-D4|4  
-D5|5  
-D6|6  
-D7|7  
+LCD|Intel Galileo pin|  
+---|-----------------|
+RS |2                 
+E  |3                
+D4 |4                
+D5 |5                
+D6 |6                
+D7 |7                
 
 ## Conexiones definidas por el usuario
 ``` python
